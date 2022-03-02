@@ -3,3 +3,6 @@ executor/parse_results/
 executor/*.tar
 executor/.vscode/
 executor/__pycache__
+processed_proposals
+video_frames
+/.vscode/
